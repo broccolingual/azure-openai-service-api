@@ -2,6 +2,10 @@
 
 `.env`ファイルを作成し，Azure OpenAI Service の API キーやデプロイ情報を記述する．書き方は`.env.sample`参照．
 
+Azure OpenAI Service については下記リンクを参照．
+
+[https://learn.microsoft.com/ja-jp/azure/ai-services/openai/overview](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/overview)
+
 ### Step. 1
 
 `main.py`を実行すると，まずスクリーンショットの撮影が開始される．
